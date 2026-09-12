@@ -26,8 +26,6 @@ SaaS 開發商，專精 AI 整合落地的建置服務。
 npx skills add Jeinn-co/agent-skills@ai-usage
 ```
 
-**[react-labs](https://github.com/Jeinn-co/react-labs)** — React 與 TypeScript 生態圈的練習與範例集合。
-
 ## 聯絡
 
 有專案需求或合作提案，歡迎來信：**jointjm@gmail.com**
