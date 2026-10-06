@@ -18,9 +18,9 @@ npx skills add Jeinn-co/agent-skills@ai-usage
 npx skills add Jeinn-co/agent-skills@ai-cli-version
 ```
 
-**[cursorbench](https://github.com/Jeinn-co/cursorbench)** — An interactive score vs. cost-per-task chart for the models behind five coding CLIs, using Artificial Analysis (default) or CursorBench data, refreshed every six hours. [Open the chart](https://jeinn-co.github.io/cursorbench/).
+**[ai-model-compare](https://github.com/Jeinn-co/ai-model-compare)** — An interactive chart of score against cost per task for the models behind five coding CLIs. Data comes from Artificial Analysis (default) or CursorBench and is refreshed every six hours. The Y axis can also show speed, verbosity and latency (Artificial Analysis) or tokens and steps per task (CursorBench). [Open the chart](https://jeinn-co.github.io/ai-model-compare/).
 
-五個 coding CLI 的模型分數與每題成本互動圖表，可切換 Artificial Analysis（預設）與 CursorBench 資料，每六小時更新。[開啟圖表](https://jeinn-co.github.io/cursorbench/) · [原始碼](https://github.com/Jeinn-co/cursorbench)
+五個 coding CLI 的模型分數對每題成本互動圖表，資料可切換 Artificial Analysis（預設）與 CursorBench，每六小時更新。Y 軸也能改看速度、冗長度、延遲（Artificial Analysis），或每題 token 數與步數（CursorBench）。[開啟圖表](https://jeinn-co.github.io/ai-model-compare/) · [原始碼](https://github.com/Jeinn-co/ai-model-compare)
 
 ---
 
