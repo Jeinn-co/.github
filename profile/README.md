@@ -14,7 +14,7 @@ npx skills add Jeinn-co/agent-skills@ai-usage
 npx skills add Jeinn-co/agent-skills@ai-cli-version
 ```
 
-**[ai-model-compare](https://github.com/Jeinn-co/ai-model-compare)** — An interactive chart of score against cost per task for the models behind five coding CLIs. Data comes from Artificial Analysis (default) or CursorBench and is refreshed every six hours. The Y axis can also show speed, verbosity and latency (Artificial Analysis) or tokens and steps per task (CursorBench). [Open the chart](https://jeinn-co.github.io/ai-model-compare/).
+**[ai-model-compare](https://github.com/Jeinn-co/ai-model-compare)** — An interactive chart of score against cost per task for the models behind five coding CLIs. Data comes from Artificial Analysis (default) or CursorBench and is refreshed every six hours. The Y axis can also show speed, verbosity and latency (Artificial Analysis) or tokens and steps per task (CursorBench). [Open the chart](https://jeinn-co.github.io/ai-model-compare/) · [Source code](https://github.com/Jeinn-co/ai-model-compare)
 
 ---
 
